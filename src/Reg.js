@@ -61,9 +61,9 @@ export default class Reg extends Component {
 
         />
 
-
+<Text>Accepts the term and conditions</Text>
         <CheckBox/>
-        <Text>hi there is kashi</Text>
+        
 
 
 
